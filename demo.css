@@ -1,0 +1,39 @@
+.container{
+    margin: 60px auto;
+    
+}
+
+
+.row{
+    background-color: black;
+    height: 500px;
+    color: white;
+    border: 2px solid #fad291;
+    border-radius: 15px;
+    
+}
+
+#child-1{
+   padding: 30px;
+   margin-top: 5%;
+
+}
+
+.text{
+    color: #fad291;
+    opacity: 50%;
+}
+
+.btn-style{
+    background-color: #fad291;
+    border: 2px solid #fad291;
+    border-radius: 10px;
+}
+
+.col-12{
+    background-color: #fad291;
+    color: black;
+    padding: 10px;
+    border-radius: 15px;
+}
+
